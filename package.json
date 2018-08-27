@@ -1,0 +1,18 @@
+{
+  "name": "http-clients",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node postserver.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mime": "^2.3.1",
+    "multer": "^1.3.1"
+  }
+}
